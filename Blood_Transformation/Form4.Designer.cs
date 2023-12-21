@@ -234,9 +234,9 @@
             this.pictureBox1.BackColor = System.Drawing.SystemColors.ButtonHighlight;
             this.pictureBox1.Cursor = System.Windows.Forms.Cursors.Default;
             this.pictureBox1.Image = global::Blood_Transformation.Properties.Resources.drone_final2;
-            this.pictureBox1.Location = new System.Drawing.Point(23, 163);
+            this.pictureBox1.Location = new System.Drawing.Point(12, 130);
             this.pictureBox1.Name = "pictureBox1";
-            this.pictureBox1.Size = new System.Drawing.Size(345, 352);
+            this.pictureBox1.Size = new System.Drawing.Size(373, 418);
             this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.pictureBox1.TabIndex = 37;
             this.pictureBox1.TabStop = false;
