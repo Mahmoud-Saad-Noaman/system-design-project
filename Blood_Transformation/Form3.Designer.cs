@@ -56,7 +56,7 @@
             // 
             this.txt_patients_fname.Font = new System.Drawing.Font("Microsoft Sans Serif", 13F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.txt_patients_fname.ForeColor = System.Drawing.Color.Silver;
-            this.txt_patients_fname.Location = new System.Drawing.Point(273, 119);
+            this.txt_patients_fname.Location = new System.Drawing.Point(273, 115);
             this.txt_patients_fname.Margin = new System.Windows.Forms.Padding(2);
             this.txt_patients_fname.Name = "txt_patients_fname";
             this.txt_patients_fname.Size = new System.Drawing.Size(298, 27);
@@ -69,7 +69,7 @@
             // 
             this.txt_patients_lname.Font = new System.Drawing.Font("Microsoft Sans Serif", 13F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.txt_patients_lname.ForeColor = System.Drawing.Color.Silver;
-            this.txt_patients_lname.Location = new System.Drawing.Point(275, 215);
+            this.txt_patients_lname.Location = new System.Drawing.Point(275, 211);
             this.txt_patients_lname.Margin = new System.Windows.Forms.Padding(2);
             this.txt_patients_lname.Name = "txt_patients_lname";
             this.txt_patients_lname.Size = new System.Drawing.Size(298, 27);
@@ -81,7 +81,7 @@
             // cont
             // 
             this.cont.Font = new System.Drawing.Font("Microsoft Sans Serif", 13F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.cont.Location = new System.Drawing.Point(274, 286);
+            this.cont.Location = new System.Drawing.Point(274, 282);
             this.cont.Margin = new System.Windows.Forms.Padding(2);
             this.cont.Name = "cont";
             this.cont.Size = new System.Drawing.Size(128, 30);
@@ -92,7 +92,7 @@
             // back
             // 
             this.back.Font = new System.Drawing.Font("Microsoft Sans Serif", 13F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.back.Location = new System.Drawing.Point(442, 288);
+            this.back.Location = new System.Drawing.Point(442, 284);
             this.back.Margin = new System.Windows.Forms.Padding(2);
             this.back.Name = "back";
             this.back.Size = new System.Drawing.Size(126, 30);
@@ -106,7 +106,7 @@
             this.label1.AutoSize = true;
             this.label1.BackColor = System.Drawing.SystemColors.ButtonHighlight;
             this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 13F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label1.Location = new System.Drawing.Point(269, 95);
+            this.label1.Location = new System.Drawing.Point(269, 91);
             this.label1.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(171, 22);
@@ -118,7 +118,7 @@
             this.label2.AutoSize = true;
             this.label2.BackColor = System.Drawing.SystemColors.ButtonHighlight;
             this.label2.Font = new System.Drawing.Font("Microsoft Sans Serif", 13F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label2.Location = new System.Drawing.Point(270, 192);
+            this.label2.Location = new System.Drawing.Point(270, 188);
             this.label2.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(170, 22);
@@ -128,7 +128,7 @@
             // back_button
             // 
             this.back_button.Depth = 0;
-            this.back_button.Location = new System.Drawing.Point(441, 287);
+            this.back_button.Location = new System.Drawing.Point(441, 283);
             this.back_button.MouseState = MaterialSkin.MouseState.HOVER;
             this.back_button.Name = "back_button";
             this.back_button.Primary = true;
@@ -141,7 +141,7 @@
             // continue_button
             // 
             this.continue_button.Depth = 0;
-            this.continue_button.Location = new System.Drawing.Point(274, 287);
+            this.continue_button.Location = new System.Drawing.Point(274, 283);
             this.continue_button.MouseState = MaterialSkin.MouseState.HOVER;
             this.continue_button.Name = "continue_button";
             this.continue_button.Primary = true;

@@ -28,7 +28,6 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.components = new System.ComponentModel.Container();
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
             this.txt_email = new System.Windows.Forms.TextBox();
             this.txt_password = new System.Windows.Forms.TextBox();
@@ -37,7 +36,6 @@
             this.label3 = new System.Windows.Forms.Label();
             this.label4 = new System.Windows.Forms.Label();
             this.next_button = new MaterialSkin.Controls.MaterialRaisedButton();
-            this.imageList1 = new System.Windows.Forms.ImageList(this.components);
             this.back_button = new MaterialSkin.Controls.MaterialRaisedButton();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.SuspendLayout();
@@ -140,12 +138,6 @@
             this.next_button.UseVisualStyleBackColor = true;
             this.next_button.Click += new System.EventHandler(this.next_button_Click);
             // 
-            // imageList1
-            // 
-            this.imageList1.ColorDepth = System.Windows.Forms.ColorDepth.Depth8Bit;
-            this.imageList1.ImageSize = new System.Drawing.Size(16, 16);
-            this.imageList1.TransparentColor = System.Drawing.Color.Transparent;
-            // 
             // back_button
             // 
             this.back_button.Depth = 0;
@@ -193,7 +185,6 @@
         private System.Windows.Forms.Label label3;
         private System.Windows.Forms.Label label4;
         private MaterialSkin.Controls.MaterialRaisedButton next_button;
-        private System.Windows.Forms.ImageList imageList1;
         private MaterialSkin.Controls.MaterialRaisedButton back_button;
     }
 }
